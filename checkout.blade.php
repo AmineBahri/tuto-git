@@ -5,7 +5,7 @@
 </head>
 <body>
  <p>
- 	modification à supprimer
+ 	commande checkout avec le nom du fichier
  </p>
 </body>
 </html>
