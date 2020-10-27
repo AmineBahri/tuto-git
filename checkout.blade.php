@@ -5,7 +5,7 @@
 </head>
 <body>
  <p>
- 	formation git
+ 	commande checkout avec le nom du fichier
  </p>
 </body>
 </html>
