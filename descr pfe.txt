@@ -1,0 +1,27 @@
+Bonjour Mohamed Amine,
+
+J'ai appris par expérience que les encadreurs pédagogique n'aiment pas entendre que leurs étudiants développent des sites à base de WordPress donc dans ce qui suit je ne le citerai pas ; je ne parlerai même pas de CMS. A toi de me dire si je peux en parler.
+Les encadreurs pédagogiques l'évitent pensant que l'étudiant fabriquera son site avec WordPress alors que dans notre cas, c'est juste l'intégration avec WordPress pour ne pas à refaire la partie CMS.
+Aujourd'hui WordPress représente 70% des sites web dans le monde. Savoir développer (des thèmes, des plugins) sur WordPress et même monter des sites avec, est un atout majestueux que malheureusement les encadreurs pédagogiques sous estiment !
+
+<<
+Description fonctionnelle :
+eMashq.com est un application web en SaaS de calligraphie arabe digitale qui existe de plus de 8 ans et orientée totalement à l'export. Elle adresse principalement le marché du moyen orient (2/3) et le reste du monte représente 1/3 du marché.
+L'application a été développée en RAD (Rapid Application Development) et doit être refaite maintenant dans les normes MVC en utilisant un framework coté client et doit être refait en mode Responsive coté client pour répondre aux besoins des nouveaux standard de navigation.
+
+Description Technique
+La refonte du SaaS sera faite à base du framework CodeIgniter en PHP et la base de données sera MySQL alors q'elle est actuellement en MariaDB (une tangente de MySQL). Le client sera en HTML5, CSS3 et JavaScript 1.2.
+Le développement intégrera en plus des librairies du SDK Facebook, Google et bien d'autres librairies.
+>>
+
+A toi de me dire mnt si on peut parler de CMS et WordPress ou on laisse ainsi.
+
+Je t'envoie dans un eMail à part le CdC (Cahier des Charges) de la partie Habillage sous WordPress et qui nécessite le plugin Elementor dont on a parlé.
+
+Je viens aussi de t'envoyer une invitation via Google Hangouts. ça sera notre outil de chat, conf-call, partage d'écran pour l'assistance, etc.
+
+Si mes souvenirs sont bons, la balle est à nouveau dans ton camp pour m'apporter le document sur lequel on décrira le sujet et le périmètre de ton PFE, n'est ce pas ?
+
+Tiens moi au courant.
+
+Regards  /  تحيّاتي
